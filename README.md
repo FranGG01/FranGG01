@@ -1,3 +1,6 @@
+<img src="banner.png.png" alt="Banner FranGG01" style="width: 100%; border-radius: 12px;" />
+
+
 # Hey there! 👋 I'm FranGG01
 
 🎯 Full Stack Developer — Bootcamp graduate @ 4Geeks Academy  
